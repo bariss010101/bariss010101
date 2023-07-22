@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-bariss010101/bariss010101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!baris json---
+barisakaa01/barisakaa01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
